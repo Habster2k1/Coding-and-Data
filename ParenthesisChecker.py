@@ -1,4 +1,3 @@
-Paranthesis Checker 
 def checker(par):
 
     if(len(par) <=1):
@@ -25,4 +24,7 @@ par = input()
 
 stack = []
 print(checker(par))
+
+
+
 
